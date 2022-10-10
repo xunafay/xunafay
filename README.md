@@ -3,7 +3,7 @@
 I am a fullstack software engineer from Belgium
 
 - 🌱 Learning Elixir
-- 📐 Building Home Automation and Discord projects
+- 📐 Building Home Automation and a Mood tracking app
 - ❤️ Pronouns: she/her
 
 ## Connect with me
